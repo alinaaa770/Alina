@@ -1,4 +1,4 @@
 function hello(){
 
-    alert("hi guys!")
+    alert("Hi, guys!")
 }
